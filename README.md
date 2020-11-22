@@ -1,0 +1,2 @@
+# shuoshuo-node
+node  shuoshuo
